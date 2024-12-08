@@ -60,6 +60,13 @@ This repository contains a Verilog implementation of a dual-port Random Access M
    gtkwave dump.vcd
    ```
 
+   ![image](https://github.com/user-attachments/assets/ea15abc9-7836-4dd4-bad7-f071837699a6)
+   ![image](https://github.com/user-attachments/assets/dba3b25a-c9f6-4c79-828c-e9c450ce6a37)
+   ![image](https://github.com/user-attachments/assets/0ff54c2d-2acf-4448-88c1-90012fbc1376)
+
+
+
+
 ### Common Simulation Commands
 
 - **Icarus Verilog**:
