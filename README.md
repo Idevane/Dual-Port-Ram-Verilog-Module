@@ -1,7 +1,3 @@
-Here's a suggested README file for your Verilog project, which includes the dual-port RAM module and its accompanying testbench. This README outlines how to use the files, provides an overview of the project, and offers guidance on running simulations.
-
----
-
 # Dual-Port RAM Verilog Module
 
 ## Overview
